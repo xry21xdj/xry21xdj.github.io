@@ -19,7 +19,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 # <a name="news"></a>🔥 News
 - **2026.09**: Start a new position as a research associate at UNSW.
-- **2026.01** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,248 AUD).
+- **2026.02** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,248 AUD).
 - **2025** Invited as **Session Chair** at IECON 2026 (SS22: System-Level Planning and Economic Optimization of V2G/V2H-Enabled Smart Buildings and Power Systems).
 - **2025** New paper published in *IEEE Transactions on Cybernetics* (Q1, IF 10.5).
 - **2025** New paper published in *Cyber-Physical Energy Systems*.
