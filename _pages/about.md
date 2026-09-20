@@ -13,13 +13,13 @@ I am a postdoctoral research associate at the [School of Electrical Engineering 
 
 My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanning federated learning, large language models, privacy-preserving machine learning, and their applications in power systems, microgrids, and fuel cells.
 
-**Research Interests:** \| Federated Learning \| Privacy-Preserving AI \| LLM for Energy Systems \| Fuel Cell Prognostics \| Power System State Estimation
+**Research Interests:** \| Federated Learning \| EV fleet \| LLM for Energy Systems \| Fuel Cell Prognostics \| Power System State Estimation
 
 ---
 
 # <a name="news"></a>🔥 News
 - **2026.09**: Start a new position as a research associate at UNSW.
-- **2026.01** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,248 AUD). -->
+- **2026.01** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,248 AUD).
 - **2025** Invited as **Session Chair** at IECON 2026 (SS22: System-Level Planning and Economic Optimization of V2G/V2H-Enabled Smart Buildings and Power Systems).
 - **2025** New paper published in *IEEE Transactions on Cybernetics* (Q1, IF 10.5).
 - **2025** New paper published in *Cyber-Physical Energy Systems*.
