@@ -9,7 +9,7 @@ redirect_from:
 
 # <a name="about"></a>👨‍🎓 About
 
-I am a Ph.D. candidate at the [School of Electrical Engineering and Telecommunications](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia (Expected Submission: August 2026). My supervisors are [A/Prof Guo Chen](https://research.unsw.edu.au/people/dr-guo-chen) and [Dr. Chaojie Li](https://chaojieli.github.io/).
+I am a postdoctoral research associate at the [School of Electrical Engineering and Telecommunications](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia.
 
 My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanning federated learning, large language models, privacy-preserving machine learning, and their applications in power systems, microgrids, and fuel cells.
 
@@ -18,8 +18,8 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 ---
 
 # <a name="news"></a>🔥 News
-
-<!-- - **2026.01** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,000 AUD). -->
+- **2026.09**: Start a new position as a research associate at UNSW.
+- **2026.01** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,248 AUD). -->
 - **2025** Invited as **Session Chair** at IECON 2026 (SS22: System-Level Planning and Economic Optimization of V2G/V2H-Enabled Smart Buildings and Power Systems).
 - **2025** New paper published in *IEEE Transactions on Cybernetics* (Q1, IF 10.5).
 - **2025** New paper published in *Cyber-Physical Energy Systems*.
@@ -82,7 +82,8 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 ---
 
 # <a name="honours-and-awards"></a>🏆 Honours and Awards
-
+- **2026.05**: Development and Research Training Grant, University of New South Wales
+- **2026.02**：UNSW Digital Grid Futures Institute (DGFI) Seed funding 2026， Solo CI
 - **2025**: Development and Research Training Grant, University of New South Wales
 - **2024**: Gold Medal of China International College Students' Innovation Competition (CICSIC, Team Leader), Ministry of Education of the People's Republic of China
 - **2023**: Tuition Fee Scholarship & Stipend, University of New South Wales
@@ -100,11 +101,10 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 - **09/2018 ~ 04/2021**: [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China
   - M.Phil. in *Electrical Engineering*
-  - Supervisor: Prof. Yuren Li
 
 - **09/2014 ~ 07/2018**: [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China
   - B.E. in *Electrical Engineering*
-  - Honours thesis advisor: A/Prof. Bo Liang
+
 
 ---
 
