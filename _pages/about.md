@@ -18,6 +18,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 ---
 
 # <a name="news"></a>🔥 News
+- **2026.10**: Listed among the **World's Top 2% Scientists** (single-year impact) by [Stanford University/Elsevier](https://doi.org/10.17632/btchxktzyw.9).
 - **2026.09**: Start a new position as a research associate at UNSW.
 - **2026.02** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,248 AUD).
 - **2025** Invited as **Session Chair** at IECON 2026 (SS22: System-Level Planning and Economic Optimization of V2G/V2H-Enabled Smart Buildings and Power Systems).
@@ -82,6 +83,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 ---
 
 # <a name="honours-and-awards"></a>🏆 Honours and Awards
+- **2026.10**: World's Top 2% Scientists (single-year impact), Stanford University/Elsevier
 - **2026.05**: Development and Research Training Grant, University of New South Wales
 - **2026.02**：UNSW Digital Grid Futures Institute (DGFI) Seed funding 2026， Solo CI
 - **2025**: Development and Research Training Grant, University of New South Wales
